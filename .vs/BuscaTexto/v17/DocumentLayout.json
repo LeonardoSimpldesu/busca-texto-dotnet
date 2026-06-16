@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BuscaTexto 2026 (C-Sharp)\\BuscaTexto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7154EA18-54FC-4C06-877D-0BD11FBBDF21}|BuscaTexto\\BuscaTexto.csproj|c:\\buscatexto 2026 (c-sharp)\\buscatexto\\buscatexto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7154EA18-54FC-4C06-877D-0BD11FBBDF21}|BuscaTexto\\BuscaTexto.csproj|solutionrelative:buscatexto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\BuscaTexto 2026 (C-Sharp)\\BuscaTexto\\BuscaTexto\\Form1.cs",
+              "RelativeDocumentMoniker": "BuscaTexto\\Form1.cs",
+              "ToolTip": "C:\\BuscaTexto 2026 (C-Sharp)\\BuscaTexto\\BuscaTexto\\Form1.cs [Design]",
+              "RelativeToolTip": "BuscaTexto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:34:32.078Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

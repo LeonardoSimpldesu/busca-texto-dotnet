@@ -1,0 +1,20 @@
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.exe.config
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.exe
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.pdb
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csprojAssemblyReference.cache
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.Form1.resources
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.Properties.Resources.resources
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.GenerateResource.cache
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.CoreCompileInputs.cache
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.exe
+H:\BuscaTexto 2021 (C-Sharp)\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.pdb
+H:\AED\Trabalhos\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.exe.config
+H:\AED\Trabalhos\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.exe
+H:\AED\Trabalhos\BuscaTexto\BuscaTexto\bin\Debug\BuscaTexto.pdb
+H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.AssemblyReference.cache
+H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.Form1.resources
+H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.Properties.Resources.resources
+H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.GenerateResource.cache
+H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.CoreCompileInputs.cache
+H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.exe
+H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.pdb
