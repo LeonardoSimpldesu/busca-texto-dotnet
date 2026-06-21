@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
 
 namespace BuscaTexto {
     class BuscaBoyerMoore {
@@ -29,6 +30,35 @@ namespace BuscaTexto {
                 j--;
             }
             return i + 1;
+        }
+
+        public static int[] Busca(String p, String t, bool caseSensitive = true)
+        {
+            if (!caseSensitive)
+            {
+                p = p.ToLower();
+                t = t.ToLower();
+            }
+
+            int m = p.Length;
+            List<int> indiceInicialDeCadaTermoEncontrado = new List<int>();
+            String aux, textoAtual = t;
+            int chunckAtual = 0;
+
+            do
+            {
+                int indice = BMSearch(p, textoAtual);
+                if (indice == -1)
+                {
+                    break;
+                }
+                indiceInicialDeCadaTermoEncontrado.Add(indice + chunckAtual);
+                aux = textoAtual.Remove(0, indice + m);
+                chunckAtual += textoAtual.Length - aux.Length;
+                textoAtual = aux;
+            } while (true);
+
+            return indiceInicialDeCadaTermoEncontrado.ToArray();
         }
     }
 }

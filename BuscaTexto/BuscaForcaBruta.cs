@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace BuscaTexto {
@@ -25,8 +25,14 @@ namespace BuscaTexto {
             return -1;
         }
 
-        public static int[] Busca(String p, String t)
+        public static int[] Busca(String p, String t, bool caseSensitive = true)
         {
+            if (!caseSensitive)
+            {
+                p = p.ToLower();
+                t = t.ToLower();
+            }
+
             int m = p.Length;
             List<int> indiceInicialDeCadaTermoEncontrado = new List<int> { };
             String aux, textoAtual = t;
