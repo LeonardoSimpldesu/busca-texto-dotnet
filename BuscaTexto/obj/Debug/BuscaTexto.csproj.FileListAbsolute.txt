@@ -18,3 +18,14 @@ H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.GenerateResou
 H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.csproj.CoreCompileInputs.cache
 H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.exe
 H:\AED\Trabalhos\BuscaTexto\BuscaTexto\obj\Debug\BuscaTexto.pdb
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\obj\Debug\BuscaTexto.csproj.AssemblyReference.cache
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\obj\Debug\BuscaTexto.exe.config
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\obj\Debug\BuscaTexto.Form1.resources
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\obj\Debug\BuscaTexto.Properties.Resources.resources
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\obj\Debug\BuscaTexto.csproj.GenerateResource.cache
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\obj\Debug\BuscaTexto.csproj.CoreCompileInputs.cache
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\obj\Debug\BuscaTexto.exe
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\obj\Debug\BuscaTexto.pdb
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\bin\Debug\BuscaTexto.exe.config
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\bin\Debug\BuscaTexto.exe
+D:\COTEMAS420\3_Periodo\aed2\busca-texto-dotnet\BuscaTexto\bin\Debug\BuscaTexto.pdb

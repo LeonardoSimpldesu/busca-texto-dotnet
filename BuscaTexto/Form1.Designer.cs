@@ -1,4 +1,4 @@
-﻿namespace BuscaTexto {
+namespace BuscaTexto {
     partial class Form1 {
         /// <summary>
         /// Required designer variable.
@@ -149,7 +149,7 @@
             this.texto.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.texto.Location = new System.Drawing.Point(0, 24);
             this.texto.Name = "texto";
-            this.texto.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
+            this.texto.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.Both;
             this.texto.Size = new System.Drawing.Size(567, 430);
             this.texto.TabIndex = 1;
             this.texto.Text = "";
